@@ -8,33 +8,33 @@ In this file you see
 
 1. File structure
     
-![file sturcture](/basic/images/fileStructure.png)
+![file sturcture](images/fileStructure.png)
 
 2. Setting File config
 
-![setting file](/basic/images/settingFile.png)
+![setting file](images/settingFile.png)
 
 3. for now this project is working on development.py
 
-![Development file](/basic/images/developmentPY.png)
+![Development file](images/developmentPY.png)
 
 ### 2. Template settings
 
 We are using proper template structure its easy to manage you template files
 
-![template structure](/basic/images/templateStru.png)
+![template structure](images/templateStru.png)
 
 
 we already created base template to easy to access header and footer at every pages
 
-![Base.html file](/basic/images/baseHtml.png)
+![Base.html file](images/baseHtml.png)
 
 
 ### 3. How to setup .env file (WE already setup don't worry)
 
 1. we provide you .env.sample just replace you value
 
-![Env file structure](/basic/images/envFile.png)
+![Env file structure](images/envFile.png)
 
 
 # Quick Launch guide
